@@ -1,5 +1,6 @@
 import PropTypes from 'prop-types'
 import React, { Component } from 'react'
+import logo from './logo-no-background.png'
 import {
   Link
 } from "react-router-dom";
@@ -10,7 +11,7 @@ export class NavBar extends Component {
   render() {
     return (
       <div>
-          <nav className="navbar navbar-expand-lg bg-body-tertiary" data-bs-theme="dark">
+          <nav className="navbar fixed-top navbar-expand-lg bg-body-tertiary" data-bs-theme="dark">
         <div className="container-fluid">
             <Link className="navbar-brand" to="/Headlines">Headlines</Link>
             <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -33,6 +34,9 @@ export class NavBar extends Component {
             </div>
         </div>
         </nav>
+        <div className="text-center" style={{marginTop: '50px'}}>
+          <img src={logo} class="text-center img-fluid" alt="img" style={{width: '8rem', marginTop:'3rem'}}></img>
+        </div>
       </div>
     )
   }
