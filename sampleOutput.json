@@ -1,123 +1,295 @@
 {
-  "status": "ok",
-  "totalResults": 9,
-  "articles": [
+  "status": "success",
+  "totalResults": 1654,
+  "results": [
     {
-      "source": { 
-        "id": "la-repubblica",
-        "name": "La Repubblica"
-      },
-      "author": "La Repubblica",
-      "title": "Metropolis/Files /7 - Saluti romani e croci celtiche: le braccia tese del football italiano",
-      "description": "Quali ombre nere si allungano sul pallone ovale? Ecco perché il linguaggio violento di alcuni dirigenti nazionali macchia in maniera indelebile la corsa degli azzurri verso le olimpiadi di Los Angeles del 2028. di C.Bonini e P.Berizzia cura di Cinzia Comandè",
-      "url": "https://video.repubblica.it/metropolis/metropolisfiles-7-le-braccia-tese-del-football-italiano/461095/462059",
-      "urlToImage": "https://www.repstatic.it/video/photo/2024/01/19/933852/933852-thumb-full-720-190124metfilespt7.jpg",
-      "publishedAt": "2024-01-20T08:02:33Z",
-      "content": null
+      "article_id": "2ddb1492bff4793022e28d0d87d08777",
+      "title": "Nortje aa gaye: Delhi Capitals welcome back Proteas pacer in style",
+      "link": "https://www.indiatoday.in/sports/cricket/story/delhi-capitals-anrich-nortje-comeback-ipl-2024-hindi-video-2519150-2024-03-25?utm_source=rss",
+      "keywords": null,
+      "creator": null,
+      "video_url": null,
+      "description": "Nortje aa gaye: Delhi Capitals welcome back Proteas pacer in style",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "pubDate": "2024-03-25 06:35:48",
+      "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202403/anritch-nortje-253453171-16x9_0.jpg?VersionId=t9eY8YVwGjTHVt67MranEfifPrXq1fCa",
+      "source_id": "indiatoday",
+      "source_url": "https://www.indiatoday.in",
+      "source_icon": "https://i.bytvi.com/domain_icons/indiatoday.png",
+      "source_priority": 2885,
+      "country": [
+        "india"
+      ],
+      "category": [
+        "sports"
+      ],
+      "language": "english",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS"
     },
     {
-      "source": {
-        "id": "espn",
-        "name": "ESPN"
-      },
-      "author": "Mark Schlabach",
-      "title": "NCAA investigating Gators for Jaden Rashada recruitment - ESPN",
-      "description": "The NCAA is investigating Florida's football program regarding its recruitment of quarterback prospect Jaden Rashada.",
-      "url": "https://www.espn.com/college-football/story/_/id/39345170/ncaa-investigating-gators-jaden-rashada-recruitment",
-      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0108%2Fr1275096_1296x729_16%2D9.jpg",
-      "publishedAt": "2024-01-19T23:38:00Z",
-      "content": "Florida's football program is under NCAA investigation regarding its recruitment of quarterback prospect Jaden Rashada, sources told ESPN on Friday.\r\nRashada signed with the Gators in December 2022, … [+2557 chars]"
+      "article_id": "d246f1ac8a69f95865be9d083d04375e",
+      "title": "South Africa's tearaway speedster joins Delhi Capitals to bolster pace battery | WATCH",
+      "link": "https://www.indiatvnews.com/sports/cricket/south-africa-tearaway-speedster-joins-delhi-capitals-to-bolster-pace-battery-watch-2024-03-25-923114",
+      "keywords": null,
+      "creator": null,
+      "video_url": null,
+      "description": "South Africa's tearaway pacer Anrich Nortje has joined Delhi Capitals' camp for the 17th edition of the Indian Premier League (IPL). The right-arm fast bowler has recently recovered from a back injury that cost him a place in South Africa's World Cup 2023 squad.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "pubDate": "2024-03-25 06:28:59",
+      "image_url": "https://resize.indiatvnews.com/en/resize/newbucket/715_-/2024/03/befunky-collage-9-1711346715.jpg",
+      "source_id": "indiatvnews",
+      "source_url": "https://www.indiatvnews.com",
+      "source_icon": "https://i.bytvi.com/domain_icons/indiatvnews.png",
+      "source_priority": 10055,
+      "country": [
+        "india"
+      ],
+      "category": [
+        "sports"
+      ],
+      "language": "english",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS"
     },
     {
-      "source": {
-        "id": "bbc-sport",
-        "name": "BBC Sport"
-      },
-      "author": null,
-      "title": "Sutton's Premier League predictions v JayO",
-      "description": "BBC Sport football expert Chris Sutton takes on singer-songwriter and Arsenal fan JayO for this weekend's Premier League predictions.",
-      "url": "http://www.bbc.co.uk/sport/football/67945444",
-      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/12310/production/_132321547_sutton'spredictionsvjayo.png",
-      "publishedAt": "2024-01-19T23:07:14.4196847Z",
-      "content": "Arsenal were top at Christmas but have lost their past two Premier League games and are out of the FA Cup - so, can they get their season back on track against Crystal Palace on Saturday?\r\nBBC Sport … [+13419 chars]"
+      "article_id": "7291348dc18993ba0474bb80f4c7c9df",
+      "title": "IPL 2024: It did not look like Shubman was leading for the first time, says Sai Kishore",
+      "link": "https://sportstar.thehindu.com/cricket/ipl/ipl-2024-sai-kishore-praises-captain-shubman-gill-ashish-nehra-gujarat-titans-beat-mumbai-indians-by-6-runs/article67990159.ece",
+      "keywords": [
+        "ipl"
+      ],
+      "creator": null,
+      "video_url": null,
+      "description": "Left-arm spinner Sai Kishore starred with a brilliant four-over spell in GT’s six-run win over Mumbai Indians in their IPL opener here on Sunday.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "pubDate": "2024-03-25 06:27:47",
+      "image_url": "https://ss-i.thgim.com/public/incoming/d0291r/article67990151.ece/alternates/LANDSCAPE_1200/image%20-%202024-03-25T114831.681.jpg",
+      "source_id": "sportstar",
+      "source_url": "https://sportstar.thehindu.com",
+      "source_icon": "https://i.bytvi.com/domain_icons/sportstar.png",
+      "source_priority": 2972,
+      "country": [
+        "india"
+      ],
+      "category": [
+        "sports"
+      ],
+      "language": "english",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS"
     },
     {
-      "source": {
-        "id": "four-four-two",
-        "name": "FourFourTwo"
-      },
-      "author": "Mark White",
-      "title": "Everton facing administration: 'Vicious cycle' that could see Toffees spiral explained by football finance guru",
-      "description": "Everton are not just facing more points deductions but administration, as one football finance expert has explained",
-      "url": "https://www.fourfourtwo.com/news/everton-facing-administration-vicious-cycle-that-could-see-toffees-spiral-explained-by-football-finance-guru",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/6aVqf4mikV6uiSzaZLoYvG-1200-80.jpg",
-      "publishedAt": "2024-01-19T16:00:05Z",
-      "content": "Everton could be on the brink of disaster, with administration on the horizon.\r\nThat's according to one expert, who has delivered the verdict following news of Everton and Nottingham Forest's impendi… [+2856 chars]"
+      "article_id": "a29635a71bfdd841c0af1a79eb649fbf",
+      "title": "Sreeja Akula Clinches WTT Feeder Beirut 2024 Women’s Singles Title, Manav Thakar and Manush Shah Win Men’s Doubles Champions",
+      "link": "https://www.latestly.com/agency-news/sports-news-sreeja-akula-clinches-wtt-feeder-beirut-singles-title-manav-manush-crowned-mens-doubles-champions-5844063.html",
+      "keywords": null,
+      "creator": null,
+      "video_url": null,
+      "description": "It is Sreeja's second WTT singles career title. She had won the Feeder Corpus Christi in January. However, Sreeja couldn't make it twin victories as she lost in the women's doubles final. Partnering Diya Chitale, the Indian duo went down 4-11, 11-9, 11-7, 11-6 to Doo Hoi Kem and Zhu Chengzhu of Hong Kong.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "pubDate": "2024-03-25 06:26:00",
+      "image_url": "https://st1.latestly.com/wp-content/uploads/2024/03/87-5-380x214.jpg",
+      "source_id": "latestly",
+      "source_url": "https://www.latestly.com",
+      "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
+      "source_priority": 5523,
+      "country": [
+        "india"
+      ],
+      "category": [
+        "sports"
+      ],
+      "language": "english",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS"
     },
     {
-      "source": {
-        "id": "bbc-sport",
-        "name": "BBC Sport"
-      },
-      "author": null,
-      "title": "Ajax move a football decision - Henderson",
-      "description": "Jordan Henderson says his move to Ajax from Saudi Pro League side Al-Ettifaq is a \"football decision\", adding that \"sometimes these things don't work\".",
-      "url": "http://www.bbc.co.uk/sport/football/68030609",
-      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/5CA5/production/_132371732_gettyimages-1655313360.jpg",
-      "publishedAt": "2024-01-19T13:52:23.4170054Z",
-      "content": "Jordan Henderson began his career at hometown club Sunderland before joining Liverpool in 2011\r\nJordan Henderson says his move to Ajax is a \"football decision, adding \"sometimes these things don't wo… [+570 chars]"
+      "article_id": "c8ea59bf46e1c2adbddaa6650e9c4d98",
+      "title": "Mohammad Amir : T20 World Cup से पहले पाकिस्तानी गेंदबाज ने लिया चौंकाने वाला फैसला",
+      "link": "https://sports.ndtv.com/hindi/cricket/mohammad-amir-comes-out-of-retirement-for-t20-world-cup-5306450#publisher=newsstand",
+      "keywords": null,
+      "creator": null,
+      "video_url": null,
+      "description": "Mohammad Amir : पाकिस्तान के बायें हाथ के विवादित तेज गेंदबाज मोहम्मद आमिर दुनिया भर में टी20 लीग खेल रहा है और अब मोहसिन ...",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "pubDate": "2024-03-25 06:25:06",
+      "image_url": "https://c.ndtvimg.com/2023-03/rlnbao7o_mohammad-amir-virat-kohli-806_625x300_14_March_23.jpg",
+      "source_id": "ndtv_in",
+      "source_url": "https://www.ndtv.in",
+      "source_icon": "https://i.bytvi.com/domain_icons/ndtv_in.png",
+      "source_priority": 129751,
+      "country": [
+        "india"
+      ],
+      "category": [
+        "sports"
+      ],
+      "language": "hindi",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS"
     },
     {
-      "source": {
-        "id": "bleacher-report",
-        "name": "Bleacher Report"
-      },
-      "author": "David Kenyon",
-      "title": "Unique Stats from the 2023 College Football Regular Season",
-      "description": "Numbers are an integral part of college football. Whether you're previewing games, ranking teams or picking an award winner, statistics help shape the story.…",
-      "url": "https://bleacherreport.com/articles/10100739-unique-stats-from-the-2023-college-football-regular-season",
-      "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1702319871/sdx1wjlqkcqz3anqfabp.jpg",
-      "publishedAt": "2023-12-12T12:00:00Z",
-      "content": "Zach Bolinger/Icon Sportswire via Getty Images\r\nSpeaking of Iowa...\r\nWhat makes the Hawkeyes' stellar defensive season even more impressive is how much the team desperately needed it.\r\nAmong the many… [+711 chars]"
+      "article_id": "685f08256eab0d97b3fe183b90bec194",
+      "title": "IPL 2024 : 'പോയി ബൗണ്ടറിലൈനിൽ നിൽക്ക്'! രോഹിത്തിനോട് ആജ്ഞാപിച്ച് ഹാർദിക് പാണ്ഡ്യ; വീഡിയോ",
+      "link": "https://zeenews.india.com/malayalam/sports/ipl-2024-viral-video-hardik-pandya-orders-rohit-sharma-to-stand-boundary-line-mumbai-indians-fans-says-this-is-unwanted-190402",
+      "keywords": null,
+      "creator": [
+        "zee news malayalam"
+      ],
+      "video_url": null,
+      "description": "IPL 2024 Hardik Pandya Rohit Sharma Viral Video : മുംബൈ ഇന്ത്യൻസ് ഗുജറാത്ത് ടൈറ്റൻസ് മത്സരത്തിനിടെയുള്ള വീഡിയോ ഇപ്പോൾ സോഷ്യൽ മീഡിയയിൽ ചർച്ചയായിരിക്കുന്നത്",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "pubDate": "2024-03-25 06:22:11",
+      "image_url": "https://malayalam.cdn.zeenews.com/malayalam/sites/default/files/styles/zm_700x400/public/2024/03/25/260398-hardikpandya-rohit.jpg?itok=lyUkXpPO",
+      "source_id": "zeenews",
+      "source_url": "http://zeenews.india.com",
+      "source_icon": "https://i.bytvi.com/domain_icons/zeenews.png",
+      "source_priority": 5319,
+      "country": [
+        "india"
+      ],
+      "category": [
+        "sports"
+      ],
+      "language": "malayalam",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS"
     },
     {
-      "source": {
-        "id": "talksport",
-        "name": "TalkSport"
-      },
-      "author": "161385360554578",
-      "title": "Rice rescues Arsenal, Arteta evades Raya question, more Premier League build-up",
-      "description": "talkSPORT.com brings you all the latest news, views and gossip from the world of football. Today’s headlines: Mikel Arteta dodges David Raya question after goalkeeper’s errors Declan Ri…",
-      "url": "https://talksport.com/football/1667216/football-news-live-arsenal-mikel-arteta-david-raya-premier-league/",
-      "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2023/12/jw-TALKSPORT-BLOG-06-12.jpg?strip=all&quality=100&w=1500&h=1000&crop=1",
-      "publishedAt": "2023-12-06T09:06:42Z",
-      "content": "Mikel Arteta didn't provide a straight answer when asked about David Raya's struggles during Arsenal's win at Luton.\r\nArsenal claimed a dramatic last-gasp win at Kenilworth Road with Declan Rice's st… [+1106 chars]"
+      "article_id": "a693db2b68ec1e60958f3bfda3686dc7",
+      "title": "“Canelo Álvarez Is Not Scared”: Mayweather Promotions’ CEO Defends Mexican Star Against ‘Ducking Allegation’ About David Benavidez Fight",
+      "link": "https://thesportsrush.com/boxing-news-canelo-alvarez-is-not-afraid-mayweather-promotions-ceo-defends-mexican-star-against-ducking-allegation-about-david-benavidez-fight/",
+      "keywords": [
+        "boxing",
+        "canelo alvarez",
+        "mike tyson"
+      ],
+      "creator": [
+        "Kevin Binoy"
+      ],
+      "video_url": null,
+      "description": "Canelo Álvarez takes on Jaime Munguia in what will be his annual fight during the ‘Cinco De Mayo’ weekend. However, the Mexican superstar seemingly upset a lot of fans as well as fighters when he announced Munguia as his next opponent. The common consensus was that Alvarez, who is known for taking on the toughest… The post “Canelo Álvarez Is Not Scared”: Mayweather Promotions’ CEO Defends Mexican Star Against ‘Ducking Allegation’ About David Benavidez Fight appeared first on The SportsRush.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "pubDate": "2024-03-25 06:19:31",
+      "image_url": "https://cdn-wp.thesportsrush.com/2024/03/38d399b6-untitled-design-2024-03-25t113932.223.jpg",
+      "source_id": "thesportsrush",
+      "source_url": "https://thesportsrush.com",
+      "source_icon": "https://i.bytvi.com/domain_icons/thesportsrush.jpg",
+      "source_priority": 4166,
+      "country": [
+        "india",
+        "united states of america",
+        "united kingdom",
+        "australia"
+      ],
+      "category": [
+        "sports"
+      ],
+      "language": "english",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS"
     },
     {
-      "source": {
-        "id": "talksport",
-        "name": "TalkSport"
-      },
-      "author": "Josh Fordham",
-      "title": "Tottenham fans feared relegation without Harry Kane but Ange Postecoglou has got them scoring more...",
-      "description": "Tottenham losing Harry Kane in the summer sent the fans into crisis mode and you can’t blame them. Not only was he their record goalscorer, but also one of the best strikers in world football seaso…",
-      "url": "https://talksport.com/football/1666888/tottenham-goals-harry-kane-ange-postecoglou/",
-      "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2023/12/Kane_Postecoglou-Comp.png?strip=all&quality=100&w=1500&h=1000&crop=1",
-      "publishedAt": "2023-12-05T17:57:19Z",
-      "content": "Tottenham losing Harry Kane in the summer sent the fans into crisis mode and you cant blame them.\r\nNot only was he their record goalscorer, but also one of the best strikers in world football season … [+2220 chars]"
+      "article_id": "c0619d0362daadfcff9f15742d67eda1",
+      "title": "హైదరాబాద్ బ్రహ్మాస్త్రం అతడే.. కాకపోతే వాడుకునే విధానం తెలిస్తేనే విజయం..",
+      "link": "https://telugu.news18.com/photogallery/sports/ipl-2024-heinrich-klaasen-should-be-key-factor-for-sunrisers-hyderabad-but-4th-place-is-best-position-for-him-srd-2429133.html",
+      "keywords": [
+        "క్రీడలు"
+      ],
+      "creator": null,
+      "video_url": null,
+      "description": "Sunrisers Hyderabad: ఫస్ట్ మ్యాచులో ఓడినప్పటికీ అదిరిపోయే ప్రదర్శనతో గెలుపు చివరి వరకు వచ్చింది ఆరెంజ్ ఆర్మీ.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "pubDate": "2024-03-25 06:19:15",
+      "image_url": "https://images.news18.com/telugu/uploads/2023/05/1684479702_Sunrisers-Hyderabad-IPL-Points-Table-16844797023x2.jpg",
+      "source_id": "telugu_news18",
+      "source_url": "https://telugu.news18.com",
+      "source_icon": "https://i.bytvi.com/domain_icons/telugu_news18.png",
+      "source_priority": 5991,
+      "country": [
+        "india"
+      ],
+      "category": [
+        "sports"
+      ],
+      "language": "telugu",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS"
     },
     {
-      "source": {
-        "id": "espn-cric-info",
-        "name": "ESPN Cric Info"
-      },
-      "author": null,
-      "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
-      "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
-      "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
-      "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
-      "publishedAt": "2020-04-27T07:20:43Z",
-      "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+      "article_id": "297c7687af5ef0cd3fe7b36aab05d031",
+      "title": "Shubman Gill: ಹಾರ್ದಿಕ್ ಔಟಾಗಿ ಪೆವಿಲಿಯನ್‌ಗೆ ಹೋಗ್ತಿದ್ದಂತೆ ವಿಚಿತ್ರವಾಗಿ ಸಂಭ್ರಮಿಸಿದ ಶುಭ್‌ಮನ್ ಗಿಲ್..!",
+      "link": "http://zeenews.india.com/kannada/sports/shubman-gill-celebrates-when-umesh-yadav-took-hardik-pandya-wicket-199048",
+      "keywords": null,
+      "creator": [
+        "Zee News Kannada",
+        "Zee News Hindi"
+      ],
+      "video_url": null,
+      "description": "Shubman Gill Celebrates Hardik Pandya Wicket: ಗುಜರಾತ್ ಟೈಟಾನ್ಸ್ ಈ ಬಾರಿಯ ಐಪಿಎಲ್ ಸೀಸನ್ ಅನ್ನು ಗೆಲುವಿನೊಂದಿಗೆ ಶುಭಾರಂಭ ಮಾಡಿದೆ.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "pubDate": "2024-03-25 06:18:53",
+      "image_url": "https://kannada.cdn.zeenews.com/kannada/sites/default/files/styles/zm_700x400/public/2024/03/25/391882-gill-video.jpg?itok=ZjGrqFJR",
+      "source_id": "zeenews",
+      "source_url": "http://zeenews.india.com",
+      "source_icon": "https://i.bytvi.com/domain_icons/zeenews.png",
+      "source_priority": 5319,
+      "country": [
+        "india"
+      ],
+      "category": [
+        "sports"
+      ],
+      "language": "kannada",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS"
+    },
+    {
+      "article_id": "2bc2c240b7f01c8779a03519e53c082e",
+      "title": "\"Rare Happening\": England Great Left Stunned By Crowd Booing Hardik Pandya In IPL 2024 - NDTV Sports",
+      "link": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vc3BvcnRzLm5kdHYuY29tL2lwbC0yMDI0L3JhcmUtaGFwcGVuaW5nLWVuZ2xhbmQtZ3JlYXQtbGVmdC1zdHVubmVkLWJ5LWNyb3dkLWJvb2luZy1oYXJkaWstcGFuZHlhLWluLWlwbC0yMDI0LTUzMDQyNDPSAYIBaHR0cHM6Ly9zcG9ydHMubmR0di5jb20vaXBsLTIwMjQvcmFyZS1oYXBwZW5pbmctZW5nbGFuZC1ncmVhdC1sZWZ0LXN0dW5uZWQtYnktY3Jvd2QtYm9vaW5nLWhhcmRpay1wYW5keWEtaW4taXBsLTIwMjQtNTMwNDI0My9hbXAvMQ?oc=5",
+      "keywords": null,
+      "creator": null,
+      "video_url": null,
+      "description": "\"Rare Happening\": England Great Left Stunned By Crowd Booing Hardik Pandya In IPL 2024 NDTV SportsUnyielding Gujarat Titans upend MI's plan to break out of season-opener jinx CricbuzzI've never seen any Indian player getting booed like Pandya in Ahmedabad: Pietersen | Hardik was booed constantly throughout the match | Inshorts InshortsWhy Tilak Varma Denied Single To Tim David? MI Skipper Hardik Pandya's Straightforward Reply NDTV SportsRecent Match Report - GT vs MI 5th Match 2024 ESPNcricinfo",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "pubDate": "2024-03-25 06:17:51",
+      "image_url": null,
+      "source_id": "google",
+      "source_url": "https://news.google.com",
+      "source_icon": "https://i.bytvi.com/domain_icons/google.png",
+      "source_priority": 14,
+      "country": [
+        "india"
+      ],
+      "category": [
+        "sports"
+      ],
+      "language": "english",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS"
     }
-  ]
+  ],
+  "nextPage": "1711347471196718374"
 }

@@ -5,6 +5,7 @@ import News from "./components/News";
 import SubscribeForm from "./components/SubscribeForm";
 import Footer from "./components/Footer";
 import LoadingBar from "react-top-loading-bar";
+import About from "./components/About";
 
 import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
 
@@ -38,6 +39,7 @@ export default class App extends Component {
                 />
               }
             />
+             <Route exact path="/about" element={<About />} />
             <Route
               exact
               path="/business"
