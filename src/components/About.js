@@ -6,10 +6,10 @@ export class About extends Component {
   render() {
     return (
       <div>
-        <section className="py-3 py-md-5 my-5">
+        <h2 className="text-center my-3">About Headlines</h2>
+        <section className="py-3 py-md-5 my-4">
           <div className="container">
             <div className="row gy-3 gy-md-4 gy-lg-0 align-items-lg-center">
-                <h2>About Headlines</h2>
               <div className="col-12 col-lg-6 col-xl-5">
                 <img
                   className="img-fluid rounded"
