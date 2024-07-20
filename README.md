@@ -1,4 +1,3 @@
-Sure! Here's a README file for your GitHub repository [immohitsen/Headlines](https://github.com/immohitsen/Headlines):
 
 ```markdown
 # Headlines
